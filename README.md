@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Vedant Zende] 👋
 
 I'm a passionate undergraduate interested in coding, learning new tech, and building real-world projects.
 
